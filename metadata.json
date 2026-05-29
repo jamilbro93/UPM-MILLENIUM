@@ -1,0 +1,6 @@
+{
+  "name": "UPM Millenium",
+  "description": "Aplikasi khusus reporter UPM Millenium untuk menulis draf berita, bimbingan AI Redaksi, dan asisten publikasi administrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
